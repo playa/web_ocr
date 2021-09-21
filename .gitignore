@@ -2,4 +2,5 @@
 .vscode/
 *.exe
 in.txt
-results.json
+*.json
+*.png
